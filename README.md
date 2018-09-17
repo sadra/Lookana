@@ -14,6 +14,8 @@ For this project i use `NodeJs` as the core, and `python` for the machine learni
 
 ## Abstract
 
+***Improving recommender systems using their awareness of context***
+
 In the last decade, with the advent of mobile phones, especially smartphones and tablets, our ability to collect accurate and accurate information from users has increased. This information can be used to improve systems that deal with users (such as recommender systems) and create customized results for each particular user.
 
 Mobile phones are the most important tools to access this information. Since we currently have fewer people who do not use this tool, we can get the same information from all users in the same way. Mobile phones allow us to have access to information such as location, speed, height, ambient light intensity, and so on for every particular user. With this information, we can refine our data, and ultimately give it the data that best matches the user's context.
@@ -25,6 +27,8 @@ Identifying and suggesting options that are solely personalized for the user and
 In this research, we intend to prove that using the real data from the physical environment (not just analytical data) can provide more intelligent advisory systems by implementing a recreational adventure system that is perceived to be environmentally conscious. Make it anyway.
 
 In this study, we will study, on a case-by-case basis, a time-consuming advocate system named Lukana's LookanaBot. The system will refine and then rank a handful of suggestions by collecting user personal information such as age, gender, morale and interests, as well as collecting environment information such as location, hours, weather conditions and traffic on the route. And finally, it suggests the user with priority. In this study, we plan to optimize the system to automate and automate all identification, data refinement, suggestions, and accuracy checks.
+
+*Keywords: E-Commerce, Recommender System, Context-Aware, Context-Aware Recommender System, Mobile Recommender System, Decision Support, Recommendation*
 
 ## How to use
 
