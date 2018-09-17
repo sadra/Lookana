@@ -1,4 +1,12 @@
 # Lookana Bot
+
+
+[![Version](https://img.shields.io/badge/version-1.0.0-red.svg?style=flat)](https://github.com/sadra/Lookana)
+[![License](https://img.shields.io/badge/License-THE%20CRAPL%20v0%20BETA%201-brightgreen.svg)](https://github.com/sadra/Lookana/blob/master/LICENSE)
+[![npm version][npm-image]][npm-url]
+[![Python](https://img.shields.io/badge/Python-3.6-blue.svg)]()
+
+
 This is a Case Study for my Master of e-Commerce proposal.
 
 For this project i use `NodeJs` as the core, and `python` for the machine learning on the data.
