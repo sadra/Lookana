@@ -2,8 +2,9 @@
 
 
 [![Version](https://img.shields.io/badge/version-1.0.0-red.svg?style=flat)](https://github.com/sadra/Lookana)
-[![License](https://img.shields.io/badge/License-THE%20CRAPL%20v0%20BETA%201-brightgreen.svg)](https://github.com/sadra/Lookana/blob/master/LICENSE)
-[![npm version][npm-image]][npm-url]
+[![License](https://img.shields.io/badge/License-THE%20CRAPL%20v0%20BETA%201-orange.svg)](https://github.com/sadra/Lookana/blob/master/LICENSE)
+[![NodeJs](https://img.shields.io/badge/NodeJs-v7.7.3-brightgreen.svg)]()
+[![npm](https://img.shields.io/badge/npm-4.1.2-yellow.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.6-blue.svg)]()
 
 
