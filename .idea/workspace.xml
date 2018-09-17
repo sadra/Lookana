@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2b93c86-d4cb-4c1f-af68-ea8057ee62ee" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="env.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/env.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="15">
+                <caret line="42" column="17" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="17" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lookana_core/assets/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>default_directory_password</find>
+      <find>downloads</find>
+      <find>savePhoto</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lookana.js" />
+        <option value="$PROJECT_DIR$/lookana_core/telegram/functions.js" />
+        <option value="$PROJECT_DIR$/lookana_core/database/dataStore.js" />
+        <option value="$PROJECT_DIR$/lookana_core/assets/config.js" />
+        <option value="$PROJECT_DIR$/env.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lookana Public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lookana Public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lookana Public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lookana Public" type="462c0819:PsiDirectoryNode" />
+              <item name="lookana_core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2b93c86-d4cb-4c1f-af68-ea8057ee62ee" name="Default" comment="" />
+      <created>1537215226938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537215226938</updated>
+      <workItem from="1537215228918" duration="938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="938000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lookana_core/telegram/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#40#0" />
+            <element signature="e#444#479#0" />
+            <element signature="e#895#998#0" />
+            <element signature="e#1033#1249#0" />
+            <element signature="e#1190#1244#0" />
+            <element signature="e#1283#1391#0" />
+            <element signature="e#1435#1982#0" />
+            <element signature="e#1546#1944#0" />
+            <element signature="e#1762#1845#0" />
+            <element signature="e#1871#1933#0" />
+            <element signature="e#2022#2542#0" />
+            <element signature="e#2150#2315#0" />
+            <element signature="e#2338#2537#0" />
+            <element signature="e#2583#2696#0" />
+            <element signature="e#2742#3510#0" />
+            <element signature="e#2822#3293#0" />
+            <element signature="e#3057#3284#0" />
+            <element signature="e#3157#3273#0" />
+            <element signature="e#3316#3506#0" />
+            <element signature="n#!!block;n#processingOnSelfie#0" />
+            <element signature="e#4211#4600#0" />
+            <element signature="e#4482#4557#0" />
+            <element signature="e#4854#5468#0" />
+            <element signature="e#5162#5419#0" />
+            <element signature="e#5209#5389#0" />
+            <element signature="e#5472#5715#0" />
+            <element signature="e#5774#5976#0" />
+            <element signature="n#!!block;n#checkUser#0" />
+            <element signature="e#6123#6170#0" />
+            <element signature="e#6204#6299#0" />
+            <element signature="n#!!block;n#updateUserInfo#0" />
+            <element signature="e#6432#6618#0" />
+            <element signature="e#6500#6606#0" />
+            <element signature="e#6641#6811#0" />
+            <element signature="e#6876#6936#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lookana.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+          <folding>
+            <element signature="e#329#362#0" />
+            <element signature="e#1001#1094#0" />
+            <element signature="e#1048#1086#0" />
+            <element signature="e#1138#2142#0" />
+            <element signature="e#1264#1596#0" />
+            <element signature="e#1510#1569#0" />
+            <element signature="e#1654#2027#0" />
+            <element signature="e#2059#2136#0" />
+            <element signature="e#2193#2593#0" />
+            <element signature="e#2310#2437#0" />
+            <element signature="e#2463#2587#0" />
+            <element signature="e#2483#2539#0" />
+            <element signature="e#2543#2581#0" />
+            <element signature="e#2645#2856#0" />
+            <element signature="e#2701#2745#0" />
+            <element signature="e#2768#2852#0" />
+            <element signature="e#2912#3132#0" />
+            <element signature="e#3014#3057#0" />
+            <element signature="e#3080#3128#0" />
+            <element signature="e#3186#3404#0" />
+            <element signature="e#3286#3329#0" />
+            <element signature="e#3352#3400#0" />
+            <element signature="e#3458#3630#0" />
+            <element signature="e#3512#3555#0" />
+            <element signature="e#3578#3626#0" />
+            <element signature="e#3673#3904#0" />
+            <element signature="e#3719#3763#0" />
+            <element signature="e#3786#3899#0" />
+            <element signature="e#3817#3891#0" />
+            <element signature="e#3950#4100#0" />
+            <element signature="e#4049#4092#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lookana_core/database/dataStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lookana_core/assets/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="42" column="17" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="17" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

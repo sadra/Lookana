@@ -1,0 +1,33 @@
+extends layout.pug
+
+block content
+    link(href="css/cover.css", rel="stylesheet")
+    .site-wrapper
+        .site-wrapper-inner
+            .cover-container
+                .masthead.clearfix
+
+                .inner.cover(role='main')
+                    h1.cover-heading
+                        | This is
+                        i  Lookana
+                        |  Bot
+                    br
+                    img(src="img/lookana-logo.png")
+                    br
+                    br
+                    p.lead
+                        | Lookana is a Telegram bot, that helps and recommends your favorite place or activity to spent your free time.
+                    br
+                    p.lead
+                        a.btn.btn-lg.btn-outline-primary.disabled(href='#') Under Construction ...
+
+                .mastfoot
+                    .inner
+                        p
+                            | Copyright 2017 &copy;
+                            a(href="http://isapanah.com")  isapanah.com
+                            | , by
+                            b  Sadra
+
+    script(src="js/popper.min.js")

@@ -1,0 +1,38 @@
+{
+  "name": "lookana",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A project for context-aware recommendation.",
+  "main": "lookana.js",
+  "author": "Sadra Isapanah Amlashi <sadra@isapanah.com> (http://isapanah.com)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sadra/Lookana.git"
+  },
+  "license": "The CRAPL v0 BETA 1",
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "body-parser": "~1.18.2",
+    "clarifai": "^2.4.0",
+    "cookie-parser": "~1.4.3",
+    "data-store": "^1.0.0",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "highcharts": "^6.0.6",
+    "image-downloader": "^3.3.0",
+    "intl-wikipedia": "^5.0.0",
+    "jade": "~1.11.0",
+    "micro-bot": "^2.0.0",
+    "mongoose": "^4.13.5",
+    "morgan": "~1.9.0",
+    "node-sass-middleware": "0.9.8",
+    "promise": "^8.0.1",
+    "pug": "^2.0.0-rc.4",
+    "request-promise": "^4.2.2",
+    "serve-favicon": "~2.4.5",
+    "sightengine": "^1.2.1",
+    "telegraf": "^3.15.3",
+    "telegraf-flow": "^8.3.0",
+    "telegraf-i18n": "^6.0.4"
+  }
+}

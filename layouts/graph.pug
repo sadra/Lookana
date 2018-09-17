@@ -1,0 +1,99 @@
+extends layout.pug
+
+block content
+    link(href="../css/cover.css", rel="stylesheet")
+    script(src="https://code.jquery.com/jquery-3.1.1.min.js")
+    script(src="https://code.highcharts.com/highcharts.js")
+    script(src="https://code.highcharts.com/modules/exporting.js")
+    .site-wrapper
+        .site-wrapper-inner
+            .cover-container(style={width: "100% !important"})
+                .masthead.clearfix
+
+                .graph-header-container
+                    .graph-header.row.align-items-center
+                        .col
+                            h1
+                                img(src="img/lookana-logo.png")
+                                span Lookana Analytics
+
+
+                .stats-container
+
+                    h1 Users Stats
+                        smalll.text-muted &nbsp;&nbsp;&nbsp;The user's characteristics
+
+                    .horizontal-place-holder
+
+                    .container
+                        .row
+                            .col
+                                #gender
+                            .col
+                                #mood
+                            .col
+                                #age
+
+                        .divider
+
+                        h1 Recommends Stats
+                            smalll.text-muted &nbsp;&nbsp;&nbsp; The accepted and denied recommends stats
+
+                        .horizontal-place-holder
+
+                        .row
+                            .col
+                                #compare-recommends
+
+                        .horizontal-place-holder
+
+                        .row
+                            .col
+                                h1 Accepted Recommends
+                                smalll.text-muted &nbsp;&nbsp; specific stats for accepted
+                                .horizontal-place-holder-small
+                                #accepted-recommends-compare
+                            .col
+                                h1 Denied Recommends
+                                smalll.text-muted &nbsp;&nbsp; specific stats for denied
+                                .horizontal-place-holder-small
+                                #denied-recommends-compare
+
+                        .row
+                            .col
+                                .horizontal-place-holder-small
+                                #accepted-recommends-details
+                            .col
+                                .horizontal-place-holder-small
+                                #denied-recommends-details
+
+
+                        .divider
+
+                        h1 Recommends Usage Time-line
+                            <br/>
+                            smalll.text-muted &nbsp;&nbsp;&nbsp; This graph included last 30days data.
+
+                        .horizontal-place-holder
+
+                        .row
+                            .col
+                                #usage-timeline
+
+                        .horizontal-place-holder
+
+
+
+
+                .footer
+                    .inner
+                        p
+                            | Copyright 2017 &copy;
+                            a(href="http://isapanah.com")  isapanah.com
+                            | , by
+                            b  Sadra
+
+                script(src="../js/graph.dark-theme.js")
+                script(src="../js/graph.stats.js")
+                script(src="../js/popper.min.js")
+
