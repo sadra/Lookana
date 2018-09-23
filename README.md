@@ -59,7 +59,7 @@ In this study, we will study, on a case-by-case basis, a time-consuming advocate
     * [Apixu](https://www.apixu.com/)
     * [Google Places](https://cloud.google.com/maps-platform/places/)
 
-6. Create a new `.env` file and fill the parameters with you data.
+6. Create a new `env.json` file at `root` directory, and fill the parameters with you data.
 
     ```json
     {
